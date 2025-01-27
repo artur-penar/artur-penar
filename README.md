@@ -16,7 +16,16 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
 # 📊 GitHub Stats:
+<!-- Update these stats manually using the output from the Python script -->
+- **Total Stars Earned**: 123
+- **Total Commits**: 4567
+- **Total PRs**: 89
+- **Total Repositories**: 10
+- 
+[![GitHub Streak](https://streak-stats.demolab.com?user=artur-penar&theme=dark&hide_total_contributions=true)](https://git.io/streak-stats)
+<!-- GitHub Readme Stats (if working) -->
 ![](https://github-readme-stats.vercel.app/api?username=artur-penar&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=artur-penar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=artur-penar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
