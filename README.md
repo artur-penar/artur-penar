@@ -1,5 +1,5 @@
 ## Hi, I'm Artur 👋
-
+I'm a graduate of PANS Krosno with a strong passion for technology. My interests lie in web development and Raspberry Pi programming, and I enjoy working on innovative projects while continuously learning new technologies.
 
 # 💻 Tech Stack:
 # Languages
