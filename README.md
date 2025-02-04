@@ -33,8 +33,8 @@ I'm a graduate of PANS Krosno with a strong passion for technology. My interests
 
 ### 🚀 Projects
 
-- [**EvolveLogix**](https://github.com/yourusername/evolvelogix): A comprehensive web application designed to empower users in managing their fitness journey.
-
+- [**EvolveLogix**](https://github.com/artur-penar/EvolveLogix): A comprehensive web application designed to empower users in managing their fitness journey.
+- [**PasswordManager**](https://github.com/artur-penar/PasswordManager): A secure Java-based Spring application using AES encryption to efficiently store and manage passwords, ensuring sensitive data is protected and accessible only to authorized users.
 
 ### 📫 Contact
 
